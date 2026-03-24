@@ -1,3 +1,5 @@
+Progetto di Applicazioni Mobile per UNICAL.
+
 # HelperSecureTech
 
 HelperSecureTech è un'applicazione mobile sviluppata per ottimizzare la gestione aziendale di **SecureTech**, un'azienda immaginaria specializzata in sicurezza informatica. Questa app offre una suite di strumenti avanzati per clienti, sviluppatori e appassionati di sicurezza informatica, combinando funzionalità intuitive e soluzioni intelligenti per migliorare l'efficienza operativa e l'esperienza utente.
@@ -59,9 +61,3 @@ HelperSecureTech si distingue per:
 - **Integrazione intelligente**: Soluzioni basate su dati storici e contesto.
 - **Efficienza operativa**: Automatizzazione delle principali operazioni aziendali.
 
----
-
-## Installazione
-1. Clona il repository:
-   ```bash
-   git clone https://github.com/ilarialanciotto/Progetto_SI_room.git
