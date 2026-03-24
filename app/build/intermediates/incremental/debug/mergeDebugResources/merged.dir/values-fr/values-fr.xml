@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nouvelle notification</item>
+    <item quantity="other">%d nouvelles notifications</item>
+  </plurals>
+    <string name="ANnulla">Annuler</string>
+    <string name="AnNulla">Annuler</string>
+    <string name="Annulla">Annuler</string>
+    <string name="CLIente">client</string>
+    <string name="COgnome">Nom de famille</string>
+    <string name="Cognome">Nom de famille</string>
+    <string name="Contenuto_della_nota">Contenu de la note</string>
+    <string name="Data_della_nota">Date de la note</string>
+    <string name="EMail">E-mail</string>
+    <string name="Email">E-mail</string>
+    <string name="Gestione_clienti">Gestion des clients</string>
+    <string name="Indietro">En arrière</string>
+    <string name="Nome">Nom</string>
+    <string name="Nome_pacchetto">Nom de package</string>
+    <string name="SVILUppatore">promoteur</string>
+    <string name="Salva">Salva</string>
+    <string name="Selezionato">Selezionato: %1$s</string>
+    <string name="_0_00">0,00 €</string>
+    <string name="_10_12_2024">10/12/2024</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Autres options"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"OK"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NON"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"OUI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="acquista">Acheter</string>
+    <string name="acquista_pacchetto">Forfait d\'achat</string>
+    <string name="acquista_pacchettoo">Forfait d\'achat</string>
+    <string name="acquisti">Acquisitions</string>
+    <string name="acquisto_andato_a_buon_fine">Acquisto andato a buon fine</string>
+    <string name="admin">administrer</string>
+    <string name="aggiungi">Ajouter</string>
+    <string name="aggiungi_clienTE">Ajouter le client</string>
+    <string name="aggiungi_cliente">Ajouter le client</string>
+    <string name="aggiungi_pacchettO">Ajouter un package</string>
+    <string name="aggiungi_pacchetto">Ajouter un package</string>
+    <string name="aggiungi_sviluppatorE">Ajouter le développeur</string>
+    <string name="aggiungi_sviluppatore">Ajouter le développeur</string>
+    <string name="aggiungi_una_nota">Ajouter une note</string>
+    <string name="analista">Analyste</string>
+    <string name="annuLLa">Annuler</string>
+    <string name="annulla">Annuler</string>
+    <string name="annullaa">Annuler</string>
+    <string name="antivirus_avanzato_gestione_della_rete">Antivirus avancé + gestion du réseau</string>
+    <string name="antivirus_base_protezione_dati">Base antivirus + protection des données</string>
+    <string name="antivirus_standard">Antivirus standard</string>
+    <string name="app_name">Helper SecureTech</string>
+    <string name="attachment_summary_off">Télécharger uniquement les pièces jointes à la demande manuelle</string>
+    <string name="attachment_summary_on">Télécharger automatiquement les pièces jointes pour les e-mails entrants</string>
+    <string name="attachment_title">Télécharger les pièces jointes entrantes</string>
+    <string name="azienda">Agence</string>
+    <string name="benvenuTO">Accueillir, %1$s!</string>
+    <string name="benvenuto">Accueillir!</string>
+    <string name="bottomsheet_action_collapse">Réduire la bottom sheet</string>
+    <string name="bottomsheet_action_expand">Développer la bottom sheet</string>
+    <string name="bottomsheet_action_expand_halfway">Développer en entier</string>
+    <string name="bottomsheet_drag_handle_clicked">A appuyé deux fois sur la poignée de déplacement</string>
+    <string name="bottomsheet_drag_handle_content_description">Poignée de déplacement</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Répondre"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vidéo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Refuser"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Raccrocher"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Appel entrant"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Appel en cours"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrage d\'un appel entrant"</string>
+    <string name="cancella">Annulation</string>
+    <string name="cancella_nota">Supprimer la note</string>
+    <string name="cerca_richiesta">Demander la demande ...</string>
+    <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Nombre maximal de caractères dépassé : %1$d sur %2$d</string>
+    <string name="chiudi">Fermez-la</string>
+    <string name="ciao">SALUT %1$s!</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
+    <string name="cognome">Nom de famille:</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Activer</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installer</string>
+    <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
+    <string name="common_google_play_services_unknown_issue">L\'application %1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Mettre à jour</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour.</string>
+    <string name="common_google_play_services_wear_update_text">La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement.</string>
+    <string name="common_open_on_phone">Ouvrir sur le téléphone</string>
+    <string name="common_signin_button_text">Se connecter</string>
+    <string name="common_signin_button_text_long">Se connecter avec Google</string>
+    <string name="company">Entreprise</string>
+    <string name="compila_tutti_i_campI">Compila tutti i campi</string>
+    <string name="compila_tutti_i_campi">Compila tutti i campi</string>
+    <string name="componente_hardware">Composant matériel</string>
+    <string name="componente_software">Composant logiciel</string>
+    <string name="conferma_eliminazione">Confirmation de confirmation</string>
+    <string name="contenuto_della_nota">Contenu de la note</string>
+    <string msgid="6083905920877235314" name="copy">"Copier"</string>
+    <string name="data_della_nota">Date de la note</string>
+    <string name="dati_aggiornati_con_succesSO">Dati aggiornati con successo!</string>
+    <string name="dati_aggiornati_con_successo">Dati aggiornati con successo</string>
+    <string name="dati_inseriti_con_successo">Données saisies avec succès</string>
+    <string name="descrizione">Description</string>
+    <string name="descrizione_pacchetto">Description du package</string>
+    <string name="durata">terme</string>
+    <string name="elimina">Retirer</string>
+    <string name="elimina_pacchetto">Supprimer</string>
+    <string name="emaIl">E-mail:</string>
+    <string name="email">E-mail</string>
+    <string name="error_a11y_label">Erreur : Non valide</string>
+    <string name="error_icon_content_description">Erreur</string>
+    <string name="errore_email_non_trovata">Errore: Email non trovata</string>
+    <string name="errore_nell_aggiornamento">Errore nell\'aggiornamento</string>
+    <string name="errore_nessun_cliente_caricato">Errore: Nessun cliente caricato</string>
+    <string name="errore_utente_non_trovato">Errore: Utente non trovato</string>
+    <string name="esci">tu sors</string>
+    <string name="eta">Et:</string>
+    <string msgid="2427401033573778270" name="expand_button_title">"Paramètres avancés"</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
+    <string name="gestione_clienti">Gestion des clients</string>
+    <string name="gestione_della_rete_antivirus">Gestion du réseau + antivirus</string>
+    <string name="gestione_pacchettI">Gestion des forfaits</string>
+    <string name="gestione_pacchetti">Gestion des forfaits</string>
+    <string name="gestione_sviluppatori">Gestion des développeurs</string>
+    <string name="i_miei_dati">Mes données</string>
+    <string name="i_miei_datii">Mes données</string>
+    <string name="i_tuoi_pacchetti">Vos forfaits</string>
+    <string name="i_tuoi_pacchettii">Vos forfaits</string>
+    <string name="i_tuoi_preferiti">Vos favoris:</string>
+    <string name="icon_content_description">Icône de la boîte de dialogue</string>
+    <string name="indietro">En arrière</string>
+    <string name="inserire_almeno_username_e_password">Insérer au moins le nom d\'utilisateur et le mot de passe</string>
+    <string name="inserire_un_email_valida">Entrez un e-mail valide</string>
+    <string name="inserisci_email">Entrez le courrier électronique:</string>
+    <string name="inserisci_la_tua_nota">Entrez votre note</string>
+    <string name="inserisci_password">Insérer le mot de passe:</string>
+    <string name="inserisci_username">Entrez le nom d\'utilisateur:</string>
+    <string name="item_view_role_description">Tabulation</string>
+    <string name="la_community_consiglia">La communauté recommande:</string>
+    <string name="le_tue_richieste">Vos demandes</string>
+    <string name="lingua">Langue</string>
+    <string name="livello">Niveau</string>
+    <string name="logiNN">Se connecter</string>
+    <string name="login">Se connecter</string>
+    <string name="maggiori_info">Plus d\'informations</string>
+    <string name="map">Carte</string>
+    <string name="mappa">Carte</string>
+    <string name="material_clock_toggle_content_description">Sélectionner le format AM ou PM</string>
+    <string name="material_hour_24h_suffix">%1$s heures</string>
+    <string name="material_hour_selection">Sélectionnez une heure</string>
+    <string name="material_hour_suffix">%1$s h</string>
+    <string name="material_minute_selection">Sélectionner des minutes</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Passer en mode horloge pour la saisie de l\'heure.</string>
+    <string name="material_timepicker_hour">Heure</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Sélectionner l\'heure</string>
+    <string name="material_timepicker_text_input_mode_description">Passer en mode saisie de texte pour la saisie de l\'heure.</string>
+    <string name="messages_header">Messages</string>
+    <string name="messaggi_sviluppatore">Messages du développeur</string>
+    <string name="modem_router">Modem routeur</string>
+    <string name="modifica">changement</string>
+    <string name="modifica_pacchettO">Modifier le package</string>
+    <string name="modifica_pacchetto">Modifier le package</string>
+    <string name="modifica_sviluppatore">Développeur de modifications</string>
+    <string name="mostra_nascondi_calendario">Afficher / masquer le calendrier</string>
+    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+    <string name="mtrl_checkbox_state_description_checked">Cochée</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partiellement cochée</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Non cochée</string>
+    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Plus de %1$d nouvelles notifications</string>
+    <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
+    <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
+    <string name="mtrl_picker_announce_current_range_selection">Date de début sélectionnée : %1$s – Date de fin sélectionnée : %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">aucune</string>
+    <string name="mtrl_picker_cancel">Annuler</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
+    <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Date de fin : %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format incorrect.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utiliser %1$s</string>
+    <string name="mtrl_picker_invalid_range">Plage non valide.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Accéder à l\'année en cours : %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Accéder à l\'année %1$d</string>
+    <string name="mtrl_picker_out_of_range">Hors limite : %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Sélectionnez une période</string>
+    <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
+    <string name="mtrl_picker_start_date_description">Date de début : %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_today_description">Aujourd\'hui : %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer au mode de saisie Agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Appuyer pour passer à la vue \"Agenda\"</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passer au mode de saisie Texte</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Appuyer pour passer à la vue \"Année\"</string>
+    <string name="mtrl_timepicker_cancel">Annuler</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="nOmE">Nom</string>
+    <string name="name">Nom</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Remonter"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Ouvrir le panneau de navigation"</string>
+    <string name="nessun_dato_da_ripristinare">Nessun dato da ripristinare</string>
+    <string name="nessun_pacchetto_selezionato">Nessun pacchetto selezionato</string>
+    <string name="nessuna_richiesta_trovata">Aucune demande trouvée</string>
+    <string name="nome">Nom:</string>
+    <string name="nome_cliente">Nom du client</string>
+    <string name="nome_pacchetTO">Nom de package</string>
+    <string name="nome_pacchettO">Nom de package</string>
+    <string name="nome_pacchetto">Nom de package</string>
+    <string name="nome_sviluppatore">Nom du développeur</string>
+    <string msgid="6573031135582639649" name="not_set">"Non définie"</string>
+    <string name="nota">Utiliser</string>
+    <string name="nota_di_prova">note d\'essai</string>
+    <string name="nota_eliminata">Nota eliminata</string>
+    <string name="nota_per_il">Remarque pour le %1$s</string>
+    <string name="nota_salvata_per_il">Nota salvata per il %1$s</string>
+    <string name="numero_acquisti">Numéro d\'achat</string>
+    <string name="pacchetti_0">Packages: 0</string>
+    <string name="pacchetti_disponibili">Packages \ n disponibles</string>
+    <string name="pacchetto_aggiunto">Pacchetto aggiunto</string>
+    <string name="pacchetto_avanzato">Forfait avancé</string>
+    <string name="pacchetto_base">Forfait de base</string>
+    <string name="pacchetto_eliminato">Élimination de l\'emballage</string>
+    <string name="pacchetto_enterprise">Package d\'entreprise</string>
+    <string name="pacchetto_home_office">Forfait du bureau à domicile</string>
+    <string name="pacchetto_premium">Paquet premium</string>
+    <string name="pacchetto_startup">Startup package</string>
+    <string name="passworD">Mot de passe</string>
+    <string name="password">Mot de passe:</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
+    <string name="permesso_di_localizzazione_non_concesso">Permis de localisation non accordée</string>
+    <string name="phone">Téléphone</string>
+    <string msgid="6685851473431805375" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" copié dans le presse-papier."</string>
+    <string name="prezzo">Prezzo</string>
+    <string name="prezzo_pacchetto">Prix ​​du forfait</string>
+    <string name="progetti">Projets</string>
+    <string name="progetto_a_progetto_b">Projet A, projet B</string>
+    <string name="register">Registre</string>
+    <string name="registrati">Registre</string>
+    <string name="registrazione_gi_esistente">Enregistrement existant</string>
+    <string name="reply_title">Action de réponse par défaut</string>
+    <string name="responsabile_consegne_digitali">Gestionnaire de livraisons numériques</string>
+    <string name="richiesta_del_cliente">Demande du client ...</string>
+    <string name="risposta_dello_sviluppatore">Réponse du développeur ...</string>
+    <string name="router_avanzato_firewall">Routeur avancé + pare-feu</string>
+    <string name="router_base">Base</string>
+    <string name="router_di_base">Routeur de base</string>
+    <string name="ruolo">Rôle</string>
+    <string name="salVaa">Sauvegarder</string>
+    <string name="salva">Salva</string>
+    <string name="salva_nota">Économiser</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Rechercher"</string>
+    <string name="searchview_clear_text_content_description">Effacer le texte</string>
+    <string name="searchview_navigation_content_description">Retour</string>
+    <string name="securetech">SecureTech</string>
+    <string name="sede_securetech_vicina">Fermer SecureTech Office</string>
+    <string name="sei_qui">Vous êtes ici!</string>
+    <string name="seleziona_un_pacchetto_da_modificare">Seleziona un pacchetto da modificare</string>
+    <string name="seleziona_uno_sviluppatore_da_modificare">Seleziona uno sviluppatore da modificare</string>
+    <string name="selezionato">Selezionato: %1$s</string>
+    <string name="server_aziendale_firewall_dedicato">Serveur d\'entreprise + pare-feu dédié</string>
+    <string name="server_dedicato_router_di_alta_gamma">Serveur dédié + routeur haut de gamme</string>
+    <string name="sicurezza_totale_gestione_centralizzata">Sécurité totale + gestion centralisée</string>
+    <string name="side_sheet_accessibility_pane_title">Feuille latérale</string>
+    <string name="signature_title">Votre signature</string>
+    <string name="stato_in_attesa">État: en attente</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="suite_completa_di_sicurezza_informatica">Suite complète de la sécurité informatique</string>
+    <string msgid="9167775378838880170" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string name="surname">Nom de famille</string>
+    <string name="sviluppatore_aggiunto">Sviluppatore aggiunto</string>
+    <string name="sviluppatore_modificato">Sviluppatore modificato</string>
+    <string name="sync_header">Synchronisation</string>
+    <string name="sync_title">Synchroniser le courrier électronique périodiquement</string>
+    <string name="telefono">Téléphone</string>
+    <string name="testo_della_nota">Texte de la note</string>
+    <string name="textview">Textview</string>
+    <string name="tipo">Taper</string>
+    <string name="tipo_di_utente_sconosciuto">Tipo di utente sconosciuto</string>
+    <string name="title_activity_main2">Mainactivité2</string>
+    <string name="title_activity_settings">Activité paramètres</string>
+    <string name="title_dashboard">Tableau de bord</string>
+    <string name="title_home">Maison</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="un_pacchetto_avanzato_per_medie_imprese">Un package avancé pour les entreprises de taille moyenne.</string>
+    <string name="un_pacchetto_base_per_piccole_aziende">Un ensemble de base pour les petites entreprises.</string>
+    <string name="un_pacchetto_pensato_per_startup_e_nuove_attivit">Un package conçu pour les startups et les nouvelles activités.</string>
+    <string name="un_pacchetto_per_chi_lavora_da_casa">Un forfait pour ceux qui travaillent à domicile.</string>
+    <string name="un_pacchetto_premium_per_grandi_aziende">Un package premium pour les grandes entreprises.</string>
+    <string name="un_pacchetto_su_misura_per_grandi_imprese">Un package de tailleur pour les grandes entreprises.</string>
+    <string name="username">Nom d\'utilisateur:</string>
+    <string name="username_o_password_errati">Username o password errati</string>
+    <string msgid="3140233346420563315" name="v7_preference_off">"DÉSACTIVÉ"</string>
+    <string msgid="89551595707643515" name="v7_preference_on">"ACTIVÉ"</string>
+    <string name="vuoi_eliminare_il_pacchetto">Voulez-vous supprimer le package \"% 1 $ s \\"\?</string>
+    <string name="welcome">Accueillir</string>
+</resources>

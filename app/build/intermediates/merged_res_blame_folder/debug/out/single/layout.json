@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_acquista_pacchetto.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_acquista_pacchetto.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_pacchetti.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_pacchetti.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/item_notedit.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/item_notedit.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_main.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/dialog_dettagli_nota.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/dialog_dettagli_nota.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_gestione_dati.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_gestione_dati.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_dashboard_admin.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_dashboard_admin.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/item_note.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/item_note.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/item_string.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/item_string.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_register.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_richieste.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_richieste.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_dashboard_sviluppatore.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_dashboard_sviluppatore.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/item_sviluppatore.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/item_sviluppatore.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_sviluppatore_adapter.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_sviluppatore_adapter.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_cliente_adapter.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_cliente_adapter.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_login.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/item_pacchetto.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/item_pacchetto.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/dialog_aggiungi_sviluppatore.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/dialog_aggiungi_sviluppatore.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_dettagli_nota.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_dettagli_nota.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/dialog_aggiungi_pacchetto.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/dialog_aggiungi_pacchetto.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_gestione_pacchetti.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_gestione_pacchetti.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/dialog_modifica_sviluppatore.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/dialog_modifica_sviluppatore.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/dialog_add_cliente.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/dialog_add_cliente.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/dialog_custom_options.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/dialog_custom_options.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_mappa_view.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_mappa_view.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/item_richiesta.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/item_richiesta.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_gestione_sviluppatori.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_gestione_sviluppatori.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/dialog_modifica_pacchetto.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/dialog_modifica_pacchetto.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/dialog_add_note.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/dialog_add_note.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/item_cliente.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/item_cliente.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_gestione_clienti.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_gestione_clienti.xml"
+    },
+    {
+        "merged": "com.example.progetto_si.app-mergeDebugResources-58:/layout/activity_login_cliente.xml",
+        "source": "com.example.progetto_si.app-main-61:/layout/activity_login_cliente.xml"
+    }
+]

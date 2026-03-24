@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/menu_login"
+            android:title="@string/logiNN" android:icon="@drawable/login" app:showAsAction="always"/>
+
+    <item
+            android:id="@+id/menu_register"
+            android:title="@string/register" android:icon="@drawable/register_2" app:showAsAction="always"/>
+    <item
+        android:id="@+id/mappa"
+        android:title="@string/mappa" android:icon="@android:drawable/ic_dialog_map" app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_language"
+        android:title="@string/lingua"
+        android:icon="@android:drawable/ic_menu_manage"
+        app:showAsAction="never"/>
+
+
+</menu>

@@ -1,0 +1,325 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.progetto_si"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="27"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:5:5-67
+11-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:6:5-79
+12-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:7:5-81
+13-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:7:22-78
+14
+15    <!-- Include required permissions for Google Maps API to run. -->
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:23:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:28:9-32
+21
+22    <queries>
+22-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:30:5-34:15
+23
+24        <!-- Needs to be explicitly declared on Android R+ -->
+25        <package android:name="com.google.android.apps.maps" />
+25-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:9-64
+25-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:33:18-61
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.15.0] C:\Users\ilari\.gradle\caches\8.10\transforms\a539f9833a3862b1f9591ae3e4eba841\transformed\core-1.15.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.example.progetto_si.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.15.0] C:\Users\ilari\.gradle\caches\8.10\transforms\a539f9833a3862b1f9591ae3e4eba841\transformed\core-1.15.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.15.0] C:\Users\ilari\.gradle\caches\8.10\transforms\a539f9833a3862b1f9591ae3e4eba841\transformed\core-1.15.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.example.progetto_si.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.15.0] C:\Users\ilari\.gradle\caches\8.10\transforms\a539f9833a3862b1f9591ae3e4eba841\transformed\core-1.15.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.15.0] C:\Users\ilari\.gradle\caches\8.10\transforms\a539f9833a3862b1f9591ae3e4eba841\transformed\core-1.15.0\AndroidManifest.xml:26:22-94
+33
+34    <supports-screens
+34-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:9:5-12:40
+35        android:anyDensity="true"
+35-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:10:9-34
+36        android:largeScreens="true"
+36-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:11:9-36
+37        android:normalScreens="true" />
+37-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:12:9-37
+38
+39    <uses-feature
+39-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:14:5-16:36
+40        android:name="android.hardware.location.network"
+40-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:15:9-57
+41        android:required="false" />
+41-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:16:9-33
+42    <uses-feature
+42-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:17:5-19:36
+43        android:name="android.hardware.location.gps"
+43-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:18:9-53
+44        android:required="false" />
+44-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:19:9-33
+45    <uses-feature
+45-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:20:5-22:36
+46        android:name="android.hardware.telephony"
+46-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:21:9-50
+47        android:required="false" />
+47-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:22:9-33
+48    <uses-feature
+48-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:23:5-25:36
+49        android:name="android.hardware.wifi"
+49-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:24:9-45
+50        android:required="false" />
+50-->[org.osmdroid:osmdroid-android:6.1.20] C:\Users\ilari\.gradle\caches\8.10\transforms\7010ad66ff893bcdc7aa35396da56a8b\transformed\osmdroid-android-6.1.20\AndroidManifest.xml:25:9-33
+51
+52    <application
+52-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:9:5-71:19
+53        android:allowBackup="true"
+53-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:10:9-35
+54        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+54-->[androidx.core:core:1.15.0] C:\Users\ilari\.gradle\caches\8.10\transforms\a539f9833a3862b1f9591ae3e4eba841\transformed\core-1.15.0\AndroidManifest.xml:28:18-86
+55        android:dataExtractionRules="@xml/data_extraction_rules"
+55-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:11:9-65
+56        android:debuggable="true"
+57        android:extractNativeLibs="false"
+58        android:fullBackupContent="@xml/backup_rules"
+58-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:12:9-54
+59        android:icon="@mipmap/ic_launcher"
+59-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:13:9-43
+60        android:label="@string/app_name"
+60-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:14:9-41
+61        android:roundIcon="@mipmap/ic_launcher_round"
+61-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:15:9-54
+62        android:supportsRtl="true"
+62-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:16:9-35
+63        android:testOnly="true"
+64        android:theme="@style/Theme.Progetto_SI" >
+64-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:17:9-49
+65        <activity
+65-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:20:9-22:40
+66            android:name="com.example.progetto_si.Admin.GestioneClientiActivity"
+66-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:21:13-58
+67            android:exported="false" />
+67-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:22:13-37
+68        <activity
+68-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:23:9-25:40
+69            android:name="com.example.progetto_si.Admin.GestionePacchettiActivity"
+69-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:24:13-60
+70            android:exported="false" />
+70-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:25:13-37
+71        <activity android:name="com.example.progetto_si.Admin.GestioneSviluppatoriActivity" />
+71-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:26:9-72
+71-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:26:19-69
+72        <activity
+72-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:27:9-30:45
+73            android:name="com.example.progetto_si.ClassiUtili.ClienteAdapter"
+73-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:28:13-55
+74            android:exported="false" />
+74-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:29:13-37
+75        <activity
+75-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:31:9-33:40
+76            android:name="com.example.progetto_si.Login.DashboardCliente"
+76-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:32:13-51
+77            android:exported="false" />
+77-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:33:13-37
+78        <activity
+78-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:34:9-36:40
+79            android:name="com.example.progetto_si.Login.DashboardAdmin"
+79-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:35:13-49
+80            android:exported="false" />
+80-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:36:13-37
+81        <activity
+81-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:37:9-39:40
+82            android:name="com.example.progetto_si.Login.DashboardSviluppatore"
+82-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:38:13-56
+83            android:exported="false" />
+83-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:39:13-37
+84        <activity
+84-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:40:9-42:40
+85            android:name="com.example.progetto_si.Cliente.Activity.PacchettiActivity"
+85-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:41:13-63
+86            android:exported="false" />
+86-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:42:13-37
+87        <activity
+87-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:43:9-45:40
+88            android:name="com.example.progetto_si.Cliente.Activity.RichiesteActivity"
+88-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:44:13-63
+89            android:exported="false" />
+89-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:45:13-37
+90        <activity
+90-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:46:9-48:40
+91            android:name="com.example.progetto_si.Cliente.Activity.AcquistaPacchettoActivity"
+91-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:47:13-71
+92            android:exported="false" />
+92-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:48:13-37
+93        <activity
+93-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:49:9-50:40
+94            android:name="com.example.progetto_si.Cliente.Activity.GestioneDatiActivity"
+94-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:49:19-72
+95            android:exported="false" />
+95-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:50:13-37
+96        <activity
+96-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:51:9-53:40
+97            android:name="com.example.progetto_si.mappaView"
+97-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:52:13-38
+98            android:exported="false" />
+98-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:53:13-37
+99        <activity
+99-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:54:9-57:55
+100            android:name="com.example.progetto_si.Login.Login"
+100-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:55:13-40
+101            android:exported="false"
+101-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:56:13-37
+102            android:windowSoftInputMode="adjustPan" />
+102-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:57:13-52
+103        <activity
+103-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:58:9-61:55
+104            android:name="com.example.progetto_si.Register"
+104-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:59:13-37
+105            android:exported="false"
+105-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:60:13-37
+106            android:windowSoftInputMode="adjustPan" />
+106-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:61:13-52
+107        <activity
+107-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:62:9-70:20
+108            android:name="com.example.progetto_si.MainActivity"
+108-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:63:13-41
+109            android:exported="true" >
+109-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:64:13-36
+110            <intent-filter>
+110-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:65:13-69:29
+111                <action android:name="android.intent.action.MAIN" />
+111-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:66:17-69
+111-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:66:25-66
+112
+113                <category android:name="android.intent.category.LAUNCHER" />
+113-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:68:17-77
+113-->E:\Uni_codici\Android\Progetto_SI_room_ultim\app\src\main\AndroidManifest.xml:68:27-74
+114            </intent-filter>
+115        </activity>
+116        <!-- Needs to be explicitly declared on P+ -->
+117        <uses-library
+117-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:39:9-41:40
+118            android:name="org.apache.http.legacy"
+118-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:40:13-50
+119            android:required="false" />
+119-->[com.google.android.gms:play-services-maps:19.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ed4cd75d56aeb5054de07fd1a99baa5a\transformed\play-services-maps-19.0.0\AndroidManifest.xml:41:13-37
+120
+121        <activity
+121-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ilari\.gradle\caches\8.10\transforms\30b904abadd701732946d258e278061b\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+122            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+122-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ilari\.gradle\caches\8.10\transforms\30b904abadd701732946d258e278061b\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+123            android:exported="false"
+123-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ilari\.gradle\caches\8.10\transforms\30b904abadd701732946d258e278061b\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+124            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+124-->[com.google.android.gms:play-services-base:18.5.0] C:\Users\ilari\.gradle\caches\8.10\transforms\30b904abadd701732946d258e278061b\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+125
+126        <meta-data
+126-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ae748fcab9aeb0b2d33eddc27e1d2413\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+127            android:name="com.google.android.gms.version"
+127-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ae748fcab9aeb0b2d33eddc27e1d2413\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+128            android:value="@integer/google_play_services_version" />
+128-->[com.google.android.gms:play-services-basement:18.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\ae748fcab9aeb0b2d33eddc27e1d2413\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+129
+130        <provider
+130-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ilari\.gradle\caches\8.10\transforms\8ba1c0da52696d9a104d511ada90e31a\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+131            android:name="androidx.startup.InitializationProvider"
+131-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ilari\.gradle\caches\8.10\transforms\8ba1c0da52696d9a104d511ada90e31a\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+132            android:authorities="com.example.progetto_si.androidx-startup"
+132-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ilari\.gradle\caches\8.10\transforms\8ba1c0da52696d9a104d511ada90e31a\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+133            android:exported="false" >
+133-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ilari\.gradle\caches\8.10\transforms\8ba1c0da52696d9a104d511ada90e31a\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+134            <meta-data
+134-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ilari\.gradle\caches\8.10\transforms\8ba1c0da52696d9a104d511ada90e31a\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+135                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+135-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ilari\.gradle\caches\8.10\transforms\8ba1c0da52696d9a104d511ada90e31a\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+136                android:value="androidx.startup" />
+136-->[androidx.emoji2:emoji2:1.3.0] C:\Users\ilari\.gradle\caches\8.10\transforms\8ba1c0da52696d9a104d511ada90e31a\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+137            <meta-data
+137-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ilari\.gradle\caches\8.10\transforms\85a8aeb34a004ccbe57764352a6a71a5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+138                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+138-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ilari\.gradle\caches\8.10\transforms\85a8aeb34a004ccbe57764352a6a71a5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+139                android:value="androidx.startup" />
+139-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\ilari\.gradle\caches\8.10\transforms\85a8aeb34a004ccbe57764352a6a71a5\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+140            <meta-data
+140-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+141                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+141-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+142                android:value="androidx.startup" />
+142-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+143        </provider>
+144
+145        <uses-library
+145-->[androidx.window:window:1.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\1c5b9c4a7b572c01ca6e889f8691b14e\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+146            android:name="androidx.window.extensions"
+146-->[androidx.window:window:1.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\1c5b9c4a7b572c01ca6e889f8691b14e\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+147            android:required="false" />
+147-->[androidx.window:window:1.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\1c5b9c4a7b572c01ca6e889f8691b14e\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+148        <uses-library
+148-->[androidx.window:window:1.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\1c5b9c4a7b572c01ca6e889f8691b14e\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+149            android:name="androidx.window.sidecar"
+149-->[androidx.window:window:1.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\1c5b9c4a7b572c01ca6e889f8691b14e\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+150            android:required="false" />
+150-->[androidx.window:window:1.0.0] C:\Users\ilari\.gradle\caches\8.10\transforms\1c5b9c4a7b572c01ca6e889f8691b14e\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+151
+152        <receiver
+152-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+153            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+153-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+154            android:directBootAware="false"
+154-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+155            android:enabled="true"
+155-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+156            android:exported="true"
+156-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+157            android:permission="android.permission.DUMP" >
+157-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+158            <intent-filter>
+158-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+159                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+159-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+159-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+160            </intent-filter>
+161            <intent-filter>
+161-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+162                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+162-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+162-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+163            </intent-filter>
+164            <intent-filter>
+164-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+165                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+165-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+165-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+166            </intent-filter>
+167            <intent-filter>
+167-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+168                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+168-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+168-->[androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ilari\.gradle\caches\8.10\transforms\3be9a94a3e7e62cfeb4521bc91c9f5ab\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+169            </intent-filter>
+170        </receiver>
+171
+172        <service
+172-->[androidx.room:room-runtime:2.5.0] C:\Users\ilari\.gradle\caches\8.10\transforms\438ac47d8ba452a4258a31e0d6f3cba6\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+173            android:name="androidx.room.MultiInstanceInvalidationService"
+173-->[androidx.room:room-runtime:2.5.0] C:\Users\ilari\.gradle\caches\8.10\transforms\438ac47d8ba452a4258a31e0d6f3cba6\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+174            android:directBootAware="true"
+174-->[androidx.room:room-runtime:2.5.0] C:\Users\ilari\.gradle\caches\8.10\transforms\438ac47d8ba452a4258a31e0d6f3cba6\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+175            android:exported="false" />
+175-->[androidx.room:room-runtime:2.5.0] C:\Users\ilari\.gradle\caches\8.10\transforms\438ac47d8ba452a4258a31e0d6f3cba6\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+176    </application>
+177
+178</manifest>
